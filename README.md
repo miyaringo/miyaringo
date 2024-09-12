@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: she/er
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I can write with both my right and left hand!
 
 <!---
