@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miyaringo
-- 👀 I’m interested in cybersecurity and artifical intelligence
+- 👀 I’m interested in cybersecurity, artifical intelligence and smart cities
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
